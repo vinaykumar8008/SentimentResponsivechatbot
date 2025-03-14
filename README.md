@@ -11,7 +11,7 @@ This is a Sentiment Analysis Chatbot built using Python, Tkinter, and Machine Le
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/sentiment-chatbot.git
+git clone https://github.com/vinaykumar8008/sentiment-chatbot.git
 cd sentiment-chatbot
 
 2️⃣ Install Dependencies
@@ -85,6 +85,6 @@ Feel free to fork this repository and submit a pull request if you have any impr
 
 🔗 Connect with Me
 
-📧 Email: your.email@example.com🔗 LinkedIn: Your Profile🐖 GitHub: Your GitHub
+📧 Email: vinaynetha8008@gmail.com🔗 LinkedIn:linkdin.com/in/karre vinay kumar/ GitHub: github.com/vinaykumar8008
 
 
